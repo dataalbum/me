@@ -36,7 +36,7 @@ development methods. Some of the project I worked on: data gathering backend for
 
 Key technologies: Linux, Java, PHP, JavaScript, Apache Web Server, Jboss, Teradata, Hadoop, Oracle database, MySQL, RDF, Informatica, QlikView.
  
-##Senior Specialist/Lead Developer
+##Senior Specialist and Lead Developer
 ###Nokia
 ####9/2006 – 9/2008
 Configuration management and development for global CRM system. Oversaw partner development and
