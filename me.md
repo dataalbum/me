@@ -16,7 +16,7 @@ I'm highly self-directed and have a passion for everything that has to do with d
 
 Develop client's target enterprise master data management architecture. Define business information model, data standards, data interfaces and integration methods for guiding the development of MDM platform and business applications.
 
-Key technologies: webMethods OneData, webMethods Integration Server, Oracle Siebel UCM, Oracle PIM, Oracle database, MS MDS, MS SQL Server, MS Sharepoint, Informatica, SAP PI.
+Key technologies: webMethods OneData, webMethods Integration Server, Oracle PIM, Oracle database, MS MDS, MS SQL Server, MS Sharepoint, Informatica, SAP PI.
  
 ##Capability Architect
 ###Nokia
@@ -84,7 +84,7 @@ MS Windows workstation administrator and Help Desk.
 * Requirement analysis
  
 #TECHNICAL SKILLS
-* SQL, Oracle database, Teradata, MySQL, Hadoop Infrastructure
+* Hadoop Infrastructure, Teradata, MySQL,  Oracle database, Microsoft SQL Server
 * SOA, ESB, EAI, ETL, Web Services
 * Oracle Siebel, Oracle PIM, Oracle Business Intelligence EE, webMethods OneData, Informatica
 * XML, JSON, RDF
