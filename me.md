@@ -4,62 +4,67 @@ Heikki Piipponen
 90440 Kempele
 
 #PROFILE
-I'm a seasoned IT architect and consult with a wealth of experience and expertise in the large scale enterprise business systems, information integration, and data watehousing.
+I'm a seasoned IT architect and consult with a wealth of experience and expertise in the large scale enterprise business systems, information integration, and data watehousing. My excellent collaboration, problem-solving and leadership skills, combined with my deep knowledge of designing architecture, make me a highly valuable employee and team leader.
 
-My excellent collaboration, problem-solving and leadership skills, combined with my deep knowledge of designing architecture, make me a highly valuable employee and team leader.
-
-I'm highly self-directed and have a passion for Big Data technologies and a flexible, creative approach to problem solving.
+I'm highly self-directed and have a passion for Big Data technologies.
 
 
 #EXPERIENCE
-##Technical Architect and Consultant in Master Data Management
-###Tata Consultancy Services | 3/2013 – now
+##Technical Architect and Consultant, Master Data Management
+###Tata Consultancy Services
+####3/2013 – now
 
 Develop client's target enterprise master data management architecture. Define business information model, data standards, data interfaces and integration methods for guiding the development of MDM platform and business applications.
 
 Key technologies: webMethods OneData, webMethods Integration Server, Oracle Siebel UCM, Oracle PIM, Oracle database, MS MDS, MS SQL Server, MS Sharepoint, Informatica, SAP PI.
  
-##Capability Architect in Master Data Management
-###Nokia | 1/2012 – 2/2013
+##Capability Architect, Master Data Management
+###Nokia
+####1/2012 – 2/2013
 Performed enterprise master data management architecture development across business processes. Defined
 business information model, data standards, data interfaces and integration methods for guiding the
 development of MDM platform and business applications.
 
 Key technologies: webMethods OneData, webMethods Integration Server, Oracle Siebel UCM, Oracle PIM, Oracle database, MS MDS, MS SQL Server, MS Sharepoint, Informatica, SAP PI.
  
-##Lead Developer in Consumer Reporting and Analytics
-###Nokia | 10/2008 – 12/2011
+##Lead Developer, Consumer Reporting and Analytics
+###Nokia
+####10/2008 – 12/2011
 Defined IT system architectures for several consumer data reporting and analytics projects. Managed
 requirements, led partner development team and production deployments by using agile software
 development methods. Some of the project I worked on: data gathering backend for mobile analytics, mobile and web NPS feedback gathering backend and analytics, mobile marketing backend, social media monitoring and reporting system, enterprise Big Data.
 
 Key technologies: Linux, Java, PHP, JavaScript, Apache Web Server, Jboss, Teradata, Hadoop, Oracle database, MySQL, RDF, Informatica, QlikView.
  
-##Senior Specialist/Lead Developer in CRM
-###Nokia | 9/2006 – 9/2008
+##Senior Specialist/Lead Developer, CRM
+###Nokia
+####9/2006 – 9/2008
 Configuration management and development for global CRM system. Oversaw partner development and
 maintenance team, change management, requirement analysis, production deployment and release
 management.
 
 Key technologies: Siebel, Oracle Business Intelligence EE, Informatica, Unix.
  
-##Senior Specialist in Contact Centers
-###Nokia | 3/2003 – 8/2006
+##Senior Specialist, Contact Centers
+###Nokia
+####3/2003 – 8/2006
 Managed and implemeted testing process for global customer contact center. Designed and implemented
 system integrations. Maintained and operated computer telephony integrations and servers. Global system
 deployment in several countries.
 
 Key technologies: Quality Center, VoIP, Siebel, Avaya CTI, Apropos Call Management, Remedy CRM.
  
-##Specialist in Service Desk Tools
-###Nokia | 1/1999 – 2/2003
+##Specialist, Service Desk Tools
+###Nokia
+####1/1999 – 2/2003
 Service level reporting and request management tool development and end user support. Trained global IT
 support concept worldwide. Service Desk contact center system administrator and duty-officer.
 
 Key technologies: Business Objects, Remedy CRM, Windows Server.
  
-##Trainee in Help Desk
-###Nokia | 8/1995 – 12/1998
+##Trainee, Help Desk
+###Nokia
+####8/1995 – 12/1998
 MS Windows workstation administrator and Help Desk.
 
 #EDUCATION
