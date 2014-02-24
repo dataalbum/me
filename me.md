@@ -10,7 +10,7 @@ I'm highly self-directed and have a passion for Big Data technologies.
 
 
 #EXPERIENCE
-##Technical Architect and Consultant, Master Data Management
+##Technical Architect and Consultant
 ###Tata Consultancy Services
 ####3/2013 – now
 
@@ -18,7 +18,7 @@ Develop client's target enterprise master data management architecture. Define b
 
 Key technologies: webMethods OneData, webMethods Integration Server, Oracle Siebel UCM, Oracle PIM, Oracle database, MS MDS, MS SQL Server, MS Sharepoint, Informatica, SAP PI.
  
-##Capability Architect, Master Data Management
+##Capability Architect
 ###Nokia
 ####1/2012 – 2/2013
 Performed enterprise master data management architecture development across business processes. Defined
@@ -27,7 +27,7 @@ development of MDM platform and business applications.
 
 Key technologies: webMethods OneData, webMethods Integration Server, Oracle Siebel UCM, Oracle PIM, Oracle database, MS MDS, MS SQL Server, MS Sharepoint, Informatica, SAP PI.
  
-##Lead Developer, Consumer Reporting and Analytics
+##Lead Developer
 ###Nokia
 ####10/2008 – 12/2011
 Defined IT system architectures for several consumer data reporting and analytics projects. Managed
@@ -36,7 +36,7 @@ development methods. Some of the project I worked on: data gathering backend for
 
 Key technologies: Linux, Java, PHP, JavaScript, Apache Web Server, Jboss, Teradata, Hadoop, Oracle database, MySQL, RDF, Informatica, QlikView.
  
-##Senior Specialist/Lead Developer, CRM
+##Senior Specialist/Lead Developer
 ###Nokia
 ####9/2006 – 9/2008
 Configuration management and development for global CRM system. Oversaw partner development and
@@ -45,7 +45,7 @@ management.
 
 Key technologies: Siebel, Oracle Business Intelligence EE, Informatica, Unix.
  
-##Senior Specialist, Contact Centers
+##Senior Specialist
 ###Nokia
 ####3/2003 – 8/2006
 Managed and implemeted testing process for global customer contact center. Designed and implemented
@@ -54,7 +54,7 @@ deployment in several countries.
 
 Key technologies: Quality Center, VoIP, Siebel, Avaya CTI, Apropos Call Management, Remedy CRM.
  
-##Specialist, Service Desk Tools
+##Specialist
 ###Nokia
 ####1/1999 – 2/2003
 Service level reporting and request management tool development and end user support. Trained global IT
@@ -62,7 +62,7 @@ support concept worldwide. Service Desk contact center system administrator and 
 
 Key technologies: Business Objects, Remedy CRM, Windows Server.
  
-##Trainee, Help Desk
+##Trainee
 ###Nokia
 ####8/1995 – 12/1998
 MS Windows workstation administrator and Help Desk.
