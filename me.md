@@ -6,7 +6,7 @@ Heikki Piipponen
 #PROFILE
 I'm a seasoned IT architect and consult with a wealth of experience and expertise in the large scale enterprise business systems, information integration, and data watehousing. My excellent collaboration, problem-solving and leadership skills, combined with my deep knowledge of designing architecture, make me a highly valuable employee and team leader.
 
-I'm highly self-directed and have a passion for Big Data technologies.
+I'm highly self-directed and have a passion for everything that has to do with data - whether it is Big Data or more traditional structured relational data.
 
 
 #EXPERIENCE
@@ -75,18 +75,18 @@ MS Windows workstation administrator and Help Desk.
  
 #COMPETENCES
 * Solution and system architecture, TOGAF Certified
-* Information Management, Master Data Management
-* Business understanding
+* Master Data Management
 * Data and UML modeling
 * Data warehousing
+* Business understanding
 * Certificated Scrum Master
 * Project management
 * Requirement analysis
  
 #TECHNICAL SKILLS
+* SQL, Oracle database, Teradata, MySQL, Hadoop Infrastructure
 * SOA, ESB, EAI, ETL, Web Services
 * Oracle Siebel, Oracle PIM, Oracle Business Intelligence EE, webMethods OneData, Informatica
-* SQL, Oracle database, Teradata, MySQL, Hadoop Infrastructure
 * XML, JSON, RDF
 * LAMP, Tomcat, JBoss
 * Basic understanding of Java, C++, Qt, PHP, JavaScript
