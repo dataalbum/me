@@ -69,7 +69,7 @@ MS Windows workstation administrator and Help Desk.
 
 #EDUCATION
 * Bachelor of science, IT and Telecommunication, Oulun teknillinen oppilaitos 1995-1999
-*Final thesis: The Telephony Interfaces on Action Request System, Nokia Cellular Systems, Oulu
+  * Final thesis: The Telephony Interfaces on Action Request System, Nokia Cellular Systems, Oulu
 * Military service, corpral, 1994 – 1995, Oulu
 * Upper secondary school, matriculation examination 1994, Kittilä
  
