@@ -14,14 +14,14 @@ I'm highly self-directed and have a passion for everything that has to do with d
 ###Tata Consultancy Services
 ####3/2013 – now
 
-Develop client's target enterprise master data management architecture. Define business information model, data standards, data interfaces and integration methods for guiding the development of MDM platform and business applications.
+Currently heavily involved with Master Data Management (MDM), Product, Customer and Reference data domains. Translate business requirements into solution concept and architecture. Define data standards, data interfaces and integration methods for guiding the development of MDM platform and business applications.
 
 Key technologies: webMethods OneData, webMethods Integration Server, Oracle PIM, Oracle database, MS MDS, MS SQL Server, MS Sharepoint, Informatica, SAP PI.
  
 ##Capability Architect
 ###Nokia
 ####1/2012 – 2/2013
-Performed enterprise master data management architecture development across business processes. Defined
+Performed enterprise Master Data Management (MDM) architecture development across business processes. Defined
 business information model, data standards, data interfaces and integration methods for guiding the
 development of MDM platform and business applications.
 
