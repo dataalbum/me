@@ -99,7 +99,7 @@ MS Windows workstation administrator and Help Desk.
 * English: fluent
  
 #INTERESTS
-* Telemark and alpine skiing, member of International Ski Instructor Association, mountain biking.
+* Telemark and alpine skiing, member of International Ski Instructor Association, keep in good shape.
 * Data visualisation: http://dataalbum.github.io
  
 #COURSES
