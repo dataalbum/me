@@ -4,7 +4,7 @@ Heikki Piipponen
 90440 Kempele
 
 #PROFILE
-I'm a seasoned IT architect and consult with a wealth of experience and expertise in the large scale enterprise business systems, information integration, and data watehousing. My excellent collaboration, problem-solving and leadership skills, combined with my deep knowledge of designing architecture, make me a highly valuable employee and team leader.
+I'm a seasoned IT architect and consult with a wealth of experience and expertise in the large scale enterprise business systems, information integration, and data warehousing. My excellent collaboration, problem-solving and leadership skills, combined with my deep knowledge of designing architecture, make me a highly valuable employee and team leader.
 
 I'm highly self-directed and have a passion for everything that has to do with data - whether it is Big Data or more traditional structured relational data.
 
@@ -32,7 +32,7 @@ Key technologies: webMethods OneData, webMethods Integration Server, Oracle Sieb
 ####10/2008 – 12/2011
 Defined IT system architectures for several consumer data reporting and analytics projects. Managed
 requirements, led partner development team and production deployments by using agile software
-development methods. Some of the project I worked on: data gathering backend for mobile analytics, mobile and web NPS feedback gathering backend and analytics, mobile marketing backend, social media monitoring and reporting system, enterprise Big Data.
+development methods. Some of the project I worked on: data gathering backend for mobile analytics, mobile and web NPS feedback gathering backend and analytics, mobile marketing backend, social media monitoring and reporting system, enterprise Big Data cluster.
 
 Key technologies: Linux, Java, PHP, JavaScript, Apache Web Server, Jboss, Teradata, Hadoop, Oracle database, MySQL, RDF, Informatica, QlikView.
  
@@ -84,7 +84,7 @@ MS Windows workstation administrator and Help Desk.
 * Requirement analysis
  
 #TECHNICAL SKILLS
-* Hadoop Infrastructure, Teradata, MySQL,  Oracle database, Microsoft SQL Server
+* Hadoop Ecosystem, Teradata, MySQL,  Oracle database, Microsoft SQL Server
 * SOA, ESB, EAI, ETL, Web Services
 * Oracle Siebel, Oracle PIM, Oracle Business Intelligence EE, webMethods OneData, Informatica
 * XML, JSON, RDF
@@ -99,10 +99,11 @@ MS Windows workstation administrator and Help Desk.
 * English: fluent
  
 #INTERESTS
-* Telemark and alpine skiing, member of International Ski Instructor Association, keep in good shape.
+* Telemark and alpine skiing, member of International Ski Instructor Association, keeping fit.
 * Data visualisation: http://dataalbum.github.io
  
 #COURSES
+* Custom Software AG OneData Training 2013
 * TOGAF 9 Certified 2012
 * Cloudera Hadoop Training 2011
 * Teradata Basic & SQL 2010
